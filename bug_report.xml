@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <bug_report>Title/Bug ID</bug_report>
+  <bug_report>Environment</bug_report>
+  <bug_report>Steps to reproduce a Bug</bug_report>
+  <bug_report>Expected result</bug_report>
+  <bug_report>Actual result</bug_report>
+  <bug_report>Visual Proof</bug_report>
+  <bug_report>Severity/Priority</bug_report>
+</root>
