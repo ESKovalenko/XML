@@ -1,5 +1,5 @@
 ## XML
-1. Создать внешний репозиторий c названием XML `create a new repository json`
+1. Создать внешний репозиторий c названием XML `create a new repository xml`
  22. Клонировать репозиторий XML на локальный компьютер `git clone https://github.com/ESKovalenko/XML.git`
  23. Внутри локального XML создать файл “new.xml” `touch new.xml`
  24. Добавить файл под гит `git add "new.xml"`
