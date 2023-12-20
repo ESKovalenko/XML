@@ -1,1 +1,15 @@
-
+<bug_report>
+  <title>Bug Title</title>
+  <description>Bug Description</description>
+  <steps_to_reproduce>Steps to Reproduce</steps_to_reproduce>
+  <expected_result>Expected Result</expected_result>
+  <actual_result>Actual Result</actual_result>
+  <severity>Severity Level</severity>
+  <priority>Priority</priority>
+  <assigned_to>Assigned To</assigned_to>
+  <reported_by>Reported By</reported_by>
+  <attachments>
+    <attachment>attachment1.png</attachment>
+    <attachment>attachment2.log</attachment>
+  </attachments>
+ </bug_report>
